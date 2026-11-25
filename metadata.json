@@ -1,0 +1,6 @@
+{
+  "name": "NumiX",
+  "description": "Premium Number System Converter & Step-by-Step Mathematics Learning App for Binary, Octal, Decimal, and Hexadecimal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
